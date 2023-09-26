@@ -1,2 +1,2 @@
 I am adding text to test the changes.
-Testing branch change and merge.
+Testing branch change. Master branch Merge Conflicts. 
